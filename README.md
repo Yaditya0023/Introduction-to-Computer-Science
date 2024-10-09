@@ -31,3 +31,5 @@ Alternative Links:
 - You can use VS Code, or any text editor/IDE you prefer. If you are using a text editor/IDE other than Spyder/Anaconda, you should note that the course sometimes ask you to run some additional statements after running a python file. To do so, run `python -i file.py`. Then you can run additional statements. 
 - You won't get any certificate for doing this course. If you really want a certificate, you need to do the [instructor-paced version of this course](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) on Edx. Certificate of an introductory course like this is not very valuable, so unless you are absolutely sure, we recommend you to do the archived version of this course instead.
 - If for some reason you want to do the OCW version of the course, you will find many useful notes and fixes of various problems in our [discord server](https://discord.gg/jvchSm9).
+
+# Credits to Ossu
