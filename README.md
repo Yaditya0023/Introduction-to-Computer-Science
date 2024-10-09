@@ -19,7 +19,7 @@ Alternative Links:
 
 - The course does not have a homepage on Edx, but don't worry about it. Open the [link](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home) given above, log in (if you are not logged in) and then enroll in the course.
 - Work through the course as given in the course overview. Watch the videos, do the finger exercises, and then solve the problem sets.
-- You won't be able to submit your responses for the finger exercises, but you can see their answers by clicking on "Show Answer". Check your answers honestly.
+- You won't be able to submit your responses for the finger exercises, but you can see their answers by clicking the "Show Answer". Check your answers honestly.
 - You won't be able to submit the problem sets on their own page. To submit them, go to the "Sandbox" section (It is the last section. You can find it on the course overview). There, you will be able to submit your work and get it graded.
 - You don't need to install the full Anaconda distribution to do this course. See the notes section below for more information.
 - If you are stuck somewhere, feel free to ask questions. You can join the OSSU chat for this course here: <https://discord.gg/jvchSm9>.
