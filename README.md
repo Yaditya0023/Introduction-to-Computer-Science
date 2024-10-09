@@ -2,7 +2,7 @@
 
 This course will introduce you to the world of computer science. Students who have been introduced to programming, either from the courses above or through study elsewhere, should take this course for a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
 
-This course has been developed by MIT and is available from three different places. We recommend you to do it from the archived version on Edx.
+This course has been developed by MIT and Oxford University and is available from three different places. We recommend you to do it from the archived version on Edx.
 
 > 6.0001 Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.
 
